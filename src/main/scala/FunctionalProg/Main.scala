@@ -22,4 +22,7 @@ object Main extends App {
   val newListTimes5 = myList.map(lambdaFunc)
 
   println(newListTimes5)
+
+
+
 }

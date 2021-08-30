@@ -22,4 +22,6 @@ Map("a" -> 2, "b" -> 1)
 Map.empty[String, Int] + ("a" -> 1) + ("b" -> 2)
 Map("a" -> 1) + ("b" -> 2)
 
-val result = euclideanDivision(10, 3)
+
+List(1,2,3,4,5).find(x => x ==1).get
+List(1,2,3,4,5).find(x => x ==8)
